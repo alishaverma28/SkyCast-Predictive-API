@@ -34,7 +34,7 @@ This API is the backend engine for the **[SkyCast-AI-Flight-Intelligence Dashboa
 
 ## 👨‍💻 Author
 **Alisha** - [LinkedIn](https://www.linkedin.com/in/alisha-verma-b6a823222/)
-'@ | Out-File -FilePath README.md -Encoding utf8
+
 
 # 3. Create Requirements File
 echo "fastapi`nuvicorn`npandas`njoblib`nscikit-learn==1.6.1`nnumpy<2.0.0`nxgboost" > requirements.txt
