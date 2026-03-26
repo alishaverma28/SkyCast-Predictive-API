@@ -1,8 +1,4 @@
-# 1. Initialize and Create .gitignore
-git init; echo "__pycache__/" > .gitignore; echo "*.pyc" >> .gitignore; echo "venv/" >> .gitignore; echo ".env" >> .gitignore
 
-# 2. Create the Professional README.md
-@'
 # ✈️ SkyCast-Predictive-API 🤖
 
 **SkyCast-Predictive-API** is a high-performance machine learning service designed to provide real-time airfare price predictions. Built with **FastAPI** and powered by an **XGBoost regression model**, this API serves as the "prediction engine" for the SkyCast ecosystem.
